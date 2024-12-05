@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web development <br>🎯 Goals: Web Developer<br>🎲 Fun fact: react seems tough</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web development <br>🎯 Goals: Web Developer<br>🎲 Fun fact: react seems tough</p>
 
 ###
 
